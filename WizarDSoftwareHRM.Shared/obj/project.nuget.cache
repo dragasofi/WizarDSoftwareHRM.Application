@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hl1Y+LliqFOjvzVF6vZj2PTowaskGf52YL4nuB6P4PSUCzjwsyySsqnV0mkqUVUgwi5z3VmqyqbOVu7VNc2T9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dragi\\source\\repos\\WizarDSoftwareHRM.Application\\WizarDSoftwareHRM.Shared\\WizarDSoftwareHRM.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dragi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dragi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\dragi\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

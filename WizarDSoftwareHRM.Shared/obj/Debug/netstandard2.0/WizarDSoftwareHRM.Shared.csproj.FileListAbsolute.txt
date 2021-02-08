@@ -1,0 +1,9 @@
+C:\Users\dragi\source\repos\WizarDSoftwareHRM.Application\WizarDSoftwareHRM.Shared\bin\Debug\netstandard2.0\WizarDSoftwareHRM.Shared.deps.json
+C:\Users\dragi\source\repos\WizarDSoftwareHRM.Application\WizarDSoftwareHRM.Shared\bin\Debug\netstandard2.0\WizarDSoftwareHRM.Shared.dll
+C:\Users\dragi\source\repos\WizarDSoftwareHRM.Application\WizarDSoftwareHRM.Shared\bin\Debug\netstandard2.0\WizarDSoftwareHRM.Shared.pdb
+C:\Users\dragi\source\repos\WizarDSoftwareHRM.Application\WizarDSoftwareHRM.Shared\obj\Debug\netstandard2.0\WizarDSoftwareHRM.Shared.csprojAssemblyReference.cache
+C:\Users\dragi\source\repos\WizarDSoftwareHRM.Application\WizarDSoftwareHRM.Shared\obj\Debug\netstandard2.0\WizarDSoftwareHRM.Shared.AssemblyInfoInputs.cache
+C:\Users\dragi\source\repos\WizarDSoftwareHRM.Application\WizarDSoftwareHRM.Shared\obj\Debug\netstandard2.0\WizarDSoftwareHRM.Shared.AssemblyInfo.cs
+C:\Users\dragi\source\repos\WizarDSoftwareHRM.Application\WizarDSoftwareHRM.Shared\obj\Debug\netstandard2.0\WizarDSoftwareHRM.Shared.csproj.CoreCompileInputs.cache
+C:\Users\dragi\source\repos\WizarDSoftwareHRM.Application\WizarDSoftwareHRM.Shared\obj\Debug\netstandard2.0\WizarDSoftwareHRM.Shared.dll
+C:\Users\dragi\source\repos\WizarDSoftwareHRM.Application\WizarDSoftwareHRM.Shared\obj\Debug\netstandard2.0\WizarDSoftwareHRM.Shared.pdb

@@ -1,0 +1,72 @@
+/* /Shared/MainLayout.razor.rz.scp.css */
+nav[b-cw6p7iyl30] {
+    background-color: #a593c2;
+    border-color: #a593c2;
+}
+
+#navbarSupportedContent[b-cw6p7iyl30] {
+    height: 80px;
+}
+
+.navbar[b-cw6p7iyl30] {
+    padding: 0;
+}
+
+.container-fluid[b-cw6p7iyl30] {
+    padding: 25px;
+}
+/* /Shared/NavMenu.razor.rz.scp.css */
+#logo[b-u1c01g2mrd] {
+    width: 80%;
+}
+
+
+.sidebar-logo[b-u1c01g2mrd] {
+    height: 80px;
+    background-color: #a593c2;
+    border-color: #a593c2;
+    width: 240px;
+}
+
+/*profile picture*/
+.profile[b-u1c01g2mrd] {
+    width: 240px;
+    overflow-y: visible;
+    position: absolute;
+}
+
+.profile-bg[b-u1c01g2mrd], .profile-picture[b-u1c01g2mrd] {
+    width: 240px;
+    height: 240px;
+    position: absolute;
+}
+
+.profile-bg[b-u1c01g2mrd] {
+    overflow: hidden;
+}
+
+    .profile-bg img[b-u1c01g2mrd] {
+        width: 250px;
+        height: 250px;
+        filter: blur(16px);
+        -webkit-filter: blur(16px);
+        margin: -5px;
+        border: 0;
+    }
+
+.profile-picture img.account-photo[b-u1c01g2mrd] {
+    width: 160px;
+    height: 160px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+
+.circle[b-u1c01g2mrd] {
+    border-radius: 50%;
+}
+
+.menu[b-u1c01g2mrd] {
+    position: absolute;
+    margin-top: 240px;
+}

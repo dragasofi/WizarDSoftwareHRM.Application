@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\dragi\source\repos\WizarDSoftwareHRM.Application\WizarDSoftwareHRM.Application\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\dragi\source\repos\WizarDSoftwareHRM.Application\WizarDSoftwareHRM.Application\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/WizarDSoftwareHRM.ComponentsLibrary" Path="C:\Users\dragi\source\repos\WizarDSoftwareHRM.Application\WizarDSoftwareHRM.ComponentsLibrary\wwwroot\" />
+</StaticWebAssets>
